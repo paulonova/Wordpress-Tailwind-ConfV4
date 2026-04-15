@@ -43,3 +43,8 @@ Author: Paulo Vila Nova
 ```
 wp_enqueue_style('google-material-symbols', '//fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap');
 ```
+
+
+### Instructions
+
+* De uma boa olhada no projeto e configure corretamente senao nao ira funcionar.
